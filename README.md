@@ -32,22 +32,6 @@ Each Python file in this repo is a separate test or automation scenario:
 
 ---
 
-## 🚀 How to Run
-
-1. Install Selenium:
-   ```bash
-   pip install selenium
-````
-
-2. Run any script:
-
-   ```bash
-   python practiceForm.py
-   ```
-
-> ⚠️ Make sure to have [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) installed and added to your system PATH.
-
----
 
 ## 🧰 Installation Guide (Included)
 
