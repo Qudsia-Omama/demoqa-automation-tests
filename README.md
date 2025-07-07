@@ -55,7 +55,7 @@ All scripts are designed to interact with components from:
 
 ---
 
-## 👤 Author
+## 👤 Contributor
 
 **Qudsia Omama**
 *QA & Automation Testing Enthusiast*
