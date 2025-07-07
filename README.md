@@ -27,7 +27,7 @@ Each Python file in this repo is a separate test or automation scenario:
 ## ⚙️ Tech Stack
 
 - 🐍 Python 3.x  
-- 🌐 Selenium WebDriver  
+- 🌐 Selenium Chrome WebDriver  
 - ✅ Optional: Pytest framework
 
 ---
